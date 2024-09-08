@@ -15,10 +15,10 @@
 ![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical)
 
 ### 🏮Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact)
 
 ### ✅ My Followers 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![GitHub followers](https://img.shields.io/github/followers/shakib6472?style=social)
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shakib6472s/)
