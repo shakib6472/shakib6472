@@ -14,7 +14,10 @@
 - 🖥 **Version Control**: Git, GitHub
 
 ### 🚀 GitHub Stats 
-![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical) 
+| ![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical) | ### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=shakib6472&theme=radical)](https://git.io/streak-stats) |
+|----|---|
+
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shakib6472s/)
