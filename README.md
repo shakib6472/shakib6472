@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Shakib!  ![My Image](https://camo.githubusercontent.com/abc123def456) 
+## Hi there 👋, I'm Shakib!  
+![My Image](https://camo.githubusercontent.com/abc123def456)
+
 🔭 I’m currently working as a **WordPress Backend Developer**  
 👯 I’m looking to collaborate with **WordPress Experts** to get more exciting projects  
 📫 How to reach me:  
@@ -11,11 +13,9 @@
 - 💾 **Database**: MySQL
 - 🖥 **Version Control**: Git, GitHub
 
-### 🚀 GitHub Stats
-![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical)
-
-### 🏮Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact)
+### 🚀 GitHub Stats and Top Languages
+| ![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact) |
+| --- | --- |
 
 ### ✅ My Followers 
 ![GitHub followers](https://img.shields.io/github/followers/shakib6472?style=social)
