@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Shakib!  
-![My Image](https://camo.githubusercontent.com/shakib6472)
+## Hi there 👋, I'm Shakib! 
 
 🔭 I’m currently working as a **WordPress Backend Developer**  
 👯 I’m looking to collaborate with **WordPress Experts** to get more exciting projects  
