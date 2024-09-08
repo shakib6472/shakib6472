@@ -12,7 +12,7 @@
 - 🖥 **Version Control**: Git, GitHub
 
 ### 🚀 GitHub Stats
-![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
