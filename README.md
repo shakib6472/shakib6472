@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: top;">
   <img src="https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=radical" alt="Shakib's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=shakib6472&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=shakib6472&theme=radical" alt="" width="48%" />
 </div>
 ### 🌟 Skills and Tools
 - 🛠 **Languages**: PHP, JavaScript, HTML, CSS
