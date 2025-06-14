@@ -13,7 +13,7 @@
 </div>
 ### 🌟 Skills and Tools
 
-- 🛠 **Languages**: PHP, JavaScript, HTML, CSS
+- 🛠 **Languages**: React, PHP, JavaScript, HTML, CSS
 - ⚙️ **Frameworks**: WordPress, WooCommerce, jQuery
 - 💾 **Database**: MySQL
 - 🖥 **Version Control**: Git, GitHub
