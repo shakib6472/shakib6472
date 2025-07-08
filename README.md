@@ -22,11 +22,18 @@ I’m a **WordPress Backend Developer** with 6+ years of experience. I specializ
 
 ## 📈 GitHub Contributions & Insights
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakib6472&theme=tokyo-night)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakib6472&theme=tokyo-night" width="100%"/>
+</div>
 
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight)
+<br/>
 
-![GitHub Metrics](https://github-metrics.vercel.app/api?username=shakib6472&base.header=true&base.activity=true&base.repositories=true&base.metadata=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=tokyonight" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=shakib6472&theme=tokyonight" width="32%" />
+</div>
+
 
 ---
 
