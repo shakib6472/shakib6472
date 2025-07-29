@@ -4,33 +4,6 @@ I’m a **WordPress Backend Developer** with 6+ years of experience. I specializ
 
 ---
 
-### 🔍 Currently Working On
-
-- 🔧 Advanced LMS systems using Tutor LMS & LearnDash  
-- 🛠️ Custom plugin development & backend optimization  
-- 🛒 WooCommerce automation and checkout flows  
-
----
-
-### 📫 Reach Me At
-
-| 📧 Email | 📞 Phone | 🔗 LinkedIn |
-|---------|----------|-------------|
-| [shakib6472@hotmail.com](mailto:shakib6472@hotmail.com) | [+8801319303850](tel:+8801319303850) | [linkedin.com/in/shakib6472s](https://www.linkedin.com/in/shakib6472s/) |
-
----
-
-## 📈 GitHub Contributions & Insights
-
-<div align="center" gap="50px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=tokyonight" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=shakib6472&theme=tokyonight" width="32%" />
-</div>
-
-
----
-
 ## 💻 Tech Stack
 
 ### 🛠 Languages & Tools  
@@ -49,6 +22,25 @@ I’m a **WordPress Backend Developer** with 6+ years of experience. I specializ
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📫 Reach Me At
+
+| 📧 Email | 📞 Phone | 🔗 LinkedIn |
+|---------|----------|-------------|
+| [shakib6472@hotmail.com](mailto:shakib6472@hotmail.com) | [+8801319303850](tel:+8801319303850) | [linkedin.com/in/shakib6472s](https://www.linkedin.com/in/shakib6472s/) |
+
+---
+
+## 📈 GitHub Contributions & Insights
+
+<div align="center" gap="50px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=tokyonight" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=shakib6472&theme=tokyonight" width="32%" />
+</div>
+ 
 
 ---
 
