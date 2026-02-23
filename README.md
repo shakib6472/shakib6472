@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shakib Shown 
  
-I’m a **WordPress Backend Developer** with 6+ years of experience. I specialize in LMS platforms, WooCommerce customizations, and crafting powerful backend solutions.
+I’m a **WordPress Backend Developer** with 7+ years of experience. I specialize in LMS platforms, WooCommerce customizations, and crafting powerful backend solutions.
  
 ## 💻 Tech Stacks   
 ### 🛠 Languages & Tools  
