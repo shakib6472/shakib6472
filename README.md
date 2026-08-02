@@ -46,16 +46,37 @@ Currently Sr. Web Developer at **Pixels Digital** (Starwords Bangladesh Limited)
 
 ## 🧑‍💻 Selected Work
 
-| Project | Focus |
-|---|---|
-| [trainingque.com](https://trainingque.com) | Corporate training LMS |
-| [kedrusacademy.com](https://kedrusacademy.com) | Online academy with course selling |
-| [movemojo.com](https://movemojo.com) | Membership-based learning platform |
-| [kaleidoscopeplus.org.uk](https://kaleidoscopeplus.org.uk) | Nonprofit LMS & wellbeing hub |
-| [isopurepep.com](https://isopurepep.com) | WooCommerce store with custom checkout |
-| [ingotswetrust.com](https://ingotswetrust.com) | Precious metals eCommerce |
-| [novexlawfirm.com](https://novexlawfirm.com) | Corporate site, Elementor Pro |
-| [ballycommonchildcare.com](https://ballycommonchildcare.com) | Booking & enrollment system |
+### 🎓 Learning Platforms & Online Academies
+
+| | | |
+|---|---|---|
+| [online-learning-college.com](https://online-learning-college.com/) | [coursesonline.co.uk](https://www.coursesonline.co.uk/) | [british-sign.co.uk](https://www.british-sign.co.uk/) |
+| [freecoursesinengland.co.uk](https://freecoursesinengland.co.uk/) | [goedu.ac](https://goedu.ac/) | [ulearnn.com](https://ulearnn.com/) |
+| [kedrusacademy.com](https://kedrusacademy.com/) | [movemojo.com](https://movemojo.com/) | [academy.ebpcentral.com](https://academy.ebpcentral.com/) |
+| [britishacademyhs.org](https://britishacademyhs.org/) | [innovatutorpty.com](https://innovatutorpty.com/) | [biztut.com](https://biztut.com/) |
+| [thorntonacademyre.com](https://thorntonacademyre.com/) | [filmscoreseminar.com](https://filmscoreseminar.com/) | [training.embraceenterprise.com](https://training.embraceenterprise.com/) |
+| [emedi.ro](https://emedi.ro/) | [milliondollarlook.co.uk](https://milliondollarlook.co.uk/) | [reidfx.com](https://reidfx.com/) |
+
+### 🗣 Language Learning & Exam Prep
+
+| | | |
+|---|---|---|
+| [tcf-academy.info](https://tcf-academy.info/) | [examenfrancais.com](https://examenfrancais.com/) | [educademy.fr](https://www.educademy.fr/) |
+| [echtnederlands.nu](https://www.echtnederlands.nu/) | | |
+
+### 🧭 Coaching, Membership & Community
+
+| | | |
+|---|---|---|
+| [coachtribe.nl](https://coachtribe.nl/) | [rebelinbloom.com](https://rebelinbloom.com/) | [fitandflow.my](https://fitandflow.my/) |
+| [unlp.nl](https://unlp.nl/) | | |
+
+### 🏢 Business, eCommerce & Custom Builds
+
+| | | |
+|---|---|---|
+| [isopurepep.com](https://isopurepep.com/) | [novexlawfirm.com](https://novexlawfirm.com/) | [europaresearch.co](https://europaresearch.co/) |
+| [etapar.com](https://etapar.com/) | [foreverfamilyhome.com](http://foreverfamilyhome.com/) | [ai.credit.sosearched.com](https://ai.credit.sosearched.com/) |
 
 ---
 
