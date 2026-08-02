@@ -83,8 +83,8 @@ Currently Sr. Web Developer at **Pixels Digital** (Starwords Bangladesh Limited)
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib6472&show_icons=true&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-stats-mu-cyan-40.vercel.app/api/top-langs/?username=shakib6472&layout=compact&theme=tokyonight&langs_count=8" width="32%" />
+  <img src="https://github-readme-stats-mu-cyan-40.vercel.app/api?username=shakib6472&show_icons=true&theme=tokyonight&include_all_commits=true" width="32%" />
   <img src="https://streak-stats.demolab.com?user=shakib6472&theme=tokyonight" width="32%" />
 </div>
 
